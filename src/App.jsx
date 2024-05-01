@@ -12,7 +12,7 @@ function App() {
    <div>
 
     <p className='text-[18px] text-left pr-5'>
-    The aim is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable." From there, you should be able to start making your way, learning from <a className='text-red-500 visited:text-purple-600' href='https://developer.mozilla.org/en-US/' target='#'>the rest of MDN</a>, and other intermediate to advanced resources that assume a lot of previous knowledge.
+    The aim is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable." From there, you should be able to start making your way, learning from <a className='text-blue-500 visited:text-purple-600' href='https://developer.mozilla.org/en-US/' target='#'>the rest of MDN</a>, and other intermediate to advanced resources that assume a lot of previous knowledge.
     </p>
     
    </div>
@@ -23,8 +23,6 @@ function App() {
     </p>
    </div>
   </div>
-  <a className='text-red-500 visited:text-purple-600' href='https://www.google.com' target='#'>Ranita</a>
-
   </>
 }
 
